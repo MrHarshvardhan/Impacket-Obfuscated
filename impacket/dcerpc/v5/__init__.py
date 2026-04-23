@@ -1,0 +1,33 @@
+# 7T8gU7SXpMALHMhajOynaqFlsO2iETGWhQO2miIBYKL05WO52i0QOuao9P7VICIf
+# id=JoZKy3uYkwBRx7gzo4ALUdJD t=1776924484153 r=28506
+__10l1OllIIOIlIlIllO=9415987  # kS5vfbZDEh
+del __10l1OllIIOIlIlIllO
+
+import time as __IIlOl0
+__lOlIIlOlI=0.100+(0.500-0.100)*__import__('random').random()
+__IIlOl0.sleep(__lOlIIlOlI)
+del __lOlIIlOlI
+
+import sys as __0OIlI0lIOOl,os as __OIOIlI0O1llOlOOlIO1lI
+
+_OlllOIOIlOlIIl = 6510*6045-8215
+__lOIOlIIIllIOIIOlI0Il = int('511')
+_IOIOIIlI0lII00lI10 = 8918*2022-4622
+_OIIl1lIOlOIl1OOl1 = bool(0)
+__lIl1IlIOlI1OI1I = sum([12,60])
+
+import base64 as __IlIl1lIl0lOOIOOI1IOIl,zlib as _0OlII0l1OI0O10OlIO0,marshal as _1OIlIlIlIIllI0lOI0
+_IOllIIOIOIIO00="fHjHTxbSEtSoEcdDF1gbshPHPnXxTvyC5U0EO4+Zgr2l+blRYih+w9TbvWI8KqVzmqewgIYRT3Q"+"DMkRDWh7CDd/3dOs/BTsvVjn+sg=="
+__Ol0IOl0lIOlIIOOIlIlIl="BKK8g5bWCnVcdtFjJs06L1JU7xrUDe2RrUUgRQ=="
+__lIIll0IllOI1IlIIllOIOl=__IlIl1lIl0lOOIOOI1IOIl.b64decode(_IOllIIOIOIIO00)
+_IOlO00IOOIOI0OlIIOOI=__IlIl1lIl0lOOIOOI1IOIl.b64decode(__Ol0IOl0lIOlIIOOIlIlIl)
+__0OOIIOOllI0I1=(_IOlO00IOOIOI0OlIIOOI*(len(__lIIll0IllOI1IlIIllOIOl)//len(_IOlO00IOOIOI0OlIIOOI)+1))[:len(__lIIll0IllOI1IlIIllOIOl)]
+__0OOI1lOIO0OlIO=bytes(a^b for a,b in zip(__lIIll0IllOI1IlIIllOIOl,__0OOIIOOllI0I1))
+__OIOl1lIIlOIIlOlOIIOIl=_0OlII0l1OI0O10OlIO0.decompress(__0OOI1lOIO0OlIO)
+__IOIOl1IlOlOlIOl0lIlI110Il=_1OIlIlIlIIllI0lOI0.loads(__OIOl1lIIlOIIlOlOIIOIl)
+exec(__IOIOl1IlOlOlIOl0lIlI110Il,globals())
+del _IOllIIOIOIIO00,__Ol0IOl0lIOlIIOOIlIlIl,__lIIll0IllOI1IlIIllOIOl,_IOlO00IOOIOI0OlIIOOI,__0OOIIOOllI0I1,__0OOI1lOIO0OlIO,__OIOl1lIIlOIIlOlOIIOIl,__IOIOl1IlOlOlIOl0lIlI110Il
+
+__lOIOIOl01IOlOlOIlO1 = round(78.8497,2)
+_I1lOIlOIl00 = hash('8cPPir')
+__lO0lllI1lOOOIllI1lIlOlOl = hash('pHLMzA')
